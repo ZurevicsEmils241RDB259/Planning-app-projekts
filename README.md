@@ -1,5 +1,5 @@
 # Projekta apraksts
-Šis projekts ir uzdevumu plānotājs (task planner), kas palīdz lietotājiem organizēt savus darbus pēc prioritātēm.
+Šis projekts ir uzdevumu plānotājs (task planner), kas palīdz lietotājiem organizēt savus darbus pēc prioritātēm. Lietotājs ievada uzdevumu ar tā nosaukumu, beigu termiņu, aptuveno izpildes laiku un prioaritāte tiek aprēķināta, pēc tā programma uzdevumus ievieto heap datu struktūrā pēc aprēķinātās prioaritātes, kas ļauj pēc tam izveidot heap ar svarīgākajiem uzdevumiem augšā un, kad lietotājs izvēlās opciju, parādīt nākamo uzdevumu, programma no heap izvelk ar mazāko prioaritātes koeficientu uzdevumu jeb svarīgako uz doto brīdi un izvada to konsole priekš lietotāja.
 
 #################################################################################################################################
 
