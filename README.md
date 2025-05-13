@@ -105,3 +105,7 @@ Termiņš: Jābūt ievadītam formātā YYYY-MM-DD (piemēram, 2023-12-31)
 Izpildes laiks: Jānorāda stundās (var būt decimāldaļa, piemēram 1.5)
 
 Šis projekts ir izstrādāts, lai atvieglotu sava laika plānošanu un izpildāmo uzdevumu secības plānošanu
+
+#################################################################################################################################
+
+Lai programmu padarītu labāku (uzlabotu) var implementēt datubāzi, kas saglabās uzdevumus un to atribūtus, lai katru reizi nav jāievada uzdevumi no jauna, tad ir vēl iespēja pievienot GUI, piemēram, izmantojot python GUI bibliotēku Tkinter un arī var implementēt webscraping, lai piekļūtu ortus e-studijām un izgūtu uzdevumus, to termiņus, lai vēl vairāk automizētu darbību.
